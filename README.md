@@ -8,3 +8,12 @@ Selenium Test Framework is a test automation framework, is developed using WebDr
    provides ability to continue with test execution even in test failures/application crash
 4. HTML Test Report
 5. Test Script creation in XLS File
+
+
+To Dos -
+1. will create a Run Guide shortly
+
+Found this helpful?
+==================
+1. Visit my blog http://thebuddhatree.blogspot.in/ to read solution about Test Automation! 
+2. Write to abhaybharti@gmail.com if any query/suggestion
