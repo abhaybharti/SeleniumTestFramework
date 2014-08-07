@@ -10,7 +10,7 @@ Selenium Test Framework is a test automation framework, is developed using WebDr
 5. Test Script creation in XLS File
 
 
-To Dos -
+To DOs -
 1. will create a Run Guide shortly
 
 Found this helpful?
