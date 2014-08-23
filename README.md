@@ -12,6 +12,7 @@ Selenium Test Framework is a test automation framework, is developed using WebDr
 
 To DOs -
 1. will create a Run Guide shortly
+2. Integrate with Maven
 
 Found this helpful?
 ==================
